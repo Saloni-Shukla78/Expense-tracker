@@ -34,9 +34,6 @@ python app.py
 3. Select an expense and click **Delete Expense** to remove it.
 4. Click **Show Chart** to visualize spending trends.
 
-## 🖥️ Screenshots
-(You can add screenshots here)
-
 ## ⚡ Contributing
 Feel free to contribute to this project by submitting issues or pull requests. 
 
